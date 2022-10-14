@@ -1,0 +1,4 @@
+repository "CaOsDaRepositori@CAOSDA@cloud"
+  path "/"
+    br "/main"
+    co "/main"
